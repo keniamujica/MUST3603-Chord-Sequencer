@@ -1,0 +1,3 @@
+-include libraries/AudioFile/build/Makefile.link
+-include libraries/Biquad/build/Makefile.link
+-include libraries/Scope/build/Makefile.link
